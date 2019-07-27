@@ -1,5 +1,4 @@
-# TCPTestTool
-## a small tool to test  the performance and concurrency of tcp-server 
+# TCPTestTool 一款C++写的tcp性能测试（压力测试）工具
 ## [一款C++写的tcp性能测试（压力测试）工具-原博客园地址](https://www.cnblogs.com/xuhuajie/p/8213534.html)
 ## 相关说明：
 ### 1、本版本是在[RibbonServyou](https://github.com/RibbonServyou/TCPTestTool)的TCPTestTool的原有版本基础上修改的，使用VS2017开发工具。
